@@ -1,7 +1,7 @@
 def f(x,y):
     return x**2 # define the differential equation (solution is some y(x))
 
-n_steps = int(40000000000) # number of steps used... must be a positive integer!!!!
+n_steps = int(4000) # number of steps used... must be a positive integer!!!!
 wanted_x = 5 # x value for estimated y(x))
 
 x = 1 # anchoring input
